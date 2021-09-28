@@ -6,6 +6,43 @@ VineethVijayaraghavan:
   page: /people/VineethVijayaraghavan
   bio: Director (Research and Outreach)
 
+PraveenKumar:
+  name: Praveen Kumar
+  group: ra
+  email: pbcpraveen@gmail.com
+  avatar: /assets/images/headshots/PraveenKumar.jpg
+  uri: https://pbcpraveen.github.io
+  github: pbcpraveen
+  twitter: pbcpraveen
+  page: /people/PraveenKumar
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Praveen Kumar completed his undergraduate degree in Computer Science at SSN College of Engineering. His interests are Deep Learning, Computer Vision, Adversarial Attacks and Reinforcement Learning. He intends to pursue an M.S. in Fall 2022."
+
+RishiVardhan:
+  name: Rishi Vardhan
+  group: ra
+  email: rishiharshavardhan@gmail.com
+  avatar: /assets/images/headshots/RishiVardhan.jpg
+  linkedin: rishi-vardhan
+  github: rishivar
+  page: /people/RishiVardhan
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Rishi is a Computer Science senior studying at SSN College of Engineering. His areas of interest are Machine Learning and its applications. He intends to pursue a Master's degree in the fall of 2022."
+
+PrasannaKumaranD:
+  name: Prasanna Kumaran D
+  group: ra
+  email: prasannakumaran176@gmail.com
+  avatar: /assets/images/headshots/PrasannaKumaranD.jpg
+  linkedin: prasanna-kumaran-931040197
+  github: PrasannaKumaran
+  page: /people/PrasannaKumaranD
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Prasanna is a final year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest are Machine Learning and Algorithms. He intends to pursue an M.S. in Computer Science in 2022."
+
 NandaHKrishna:
   name: Nanda H Krishna
   group: alumni
