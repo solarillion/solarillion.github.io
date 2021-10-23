@@ -130,6 +130,18 @@ AbhishekK:
   about:
     "Abhishek is a final year undergraduate student of Computer Science and Engineering at SSN College of Engineering. His areas of interest include Machine Learning, Computer Vision, and their applications in healthcare. He is currently working on Blood Pressure Estimation using Deep Learning on Edge Devices. He is planning to pursue his Master's in Computer Science in the fall of 2022."
     
+NiranjanKumar:
+  name: Niranjan Kumar I
+  group: ra
+  email: inkredible2599@gmail.com
+  avatar: /assets/images/headshots/NiranjanKumar.jpg
+  linkedin: niranjan-kumar-ilampooranan
+  github: red-lightning10
+  page: /people/NiranjanKumar
+  bio: Research Assistant
+  about:
+    "Niranjan Kumar completed his undergraduate degree in Electronics and Communication Engineering at SSN College of Engineering, Chennai. His interests are Robust Learning, Reinforcement Learning and Robotics. He intends to pursue an M.S. in Fall 2022."
+    
 GayathriIlango:
   name: Sri Gayathri Devi I
   group: ra
@@ -216,7 +228,7 @@ RamanathanMurugappan:
   page: https://www.linkedin.com/in/ramanathan-murugappan-66a068125/
 
 JoishBosco:
-  name: Joish Bosco
+  name: Joish J. Bosco
   group: alumni
   page: https://www.linkedin.com/in/joish-bosco-73389410b/
 
@@ -575,8 +587,32 @@ CVPranav:
   name: Chakilam Vijay Pranav
   group: other
 
+NithinGR:
+  name: Nithin G R
+  group: other
+  
 DhiganthRao:
   name: Dhiganth Rao Padamnoor
+  group: other
+
+VedanthS:
+  name: Vedanth S	
+  group: other
+  
+PoojahG:
+  name: Poojah G	
+  group: other
+  
+NithishKumarM:
+  name: Nithish Kumar M
+  group: other
+
+SujithSivasankaran:
+  name: Sujith Sivasankaran	
+  group: other
+  
+MohanVamsi:
+  name: Mohan Vamsi A
   group: other
 
 KrishnakanthEswaran:
