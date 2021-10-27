@@ -10,6 +10,7 @@ SLTUMCT:
   conference: "20th Mexican International Conference on Artificial Intelligence (MICAI)"
   url: "https://link.springer.com/chapter/10.1007/978-3-030-89820-5_25"
   git: "https://github.com/MBadriNarayanan/MultiContextTransformer"
+  award: "Won the 3rd Best Paper Award"
   status: Published
   team: NLP
 
