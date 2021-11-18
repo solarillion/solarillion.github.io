@@ -34,14 +34,15 @@ RishiVardhan:
 PrasannaKumaranD:
   name: Prasanna Kumaran D
   group: ra
-  email: prasannakumaran176@gmail.com
+  email: prasannakumaran18110@cse.ssn.edu.in
   avatar: /assets/images/headshots/PrasannaKumaranD.jpg
-  linkedin: prasanna-kumaran-931040197
+  uri: https://prasannakumaran.github.io/
+  linkedin: prasannakumaran
   github: PrasannaKumaran
   page: /people/PrasannaKumaranD
   bio: Research Assistant, Teaching Assistant, Server Management
   about:
-    "Prasanna is a final year undergraduate student of Computer Science and Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest are Machine Learning and Algorithms. He intends to pursue an M.S. in Computer Science in 2022."
+    "Prasanna is a final year undergraduate student pursuing Computer Science and Engineering at Sri Sivasubramaniya Nadar College of Engineering (SSN), Chennai. His area of interest includes Deep Learning, Graph Machine Learning, Behavioural modeling, and Natural Language Processing. He intends to pursue an M.S in Computer Science in 2022."
 
 MBadriNarayanan:
   name: M Badri Narayanan
@@ -223,6 +224,12 @@ MohanVamsi:
   about:
     "Vamsi is a final year undergraduate student at Panimalar Engineering College, Chennai and is pursuing his Bachelor's in Computer Science and Engineering. He intends pursue his Master's in 2023."
 
+SowmiyaSree:
+  name: Sowmiya Sree S
+  group: ra
+  about:
+    "Sowmiya is a final year Computer Science undergraduate from College of Engineering Guindy (CEG), Chennai. She intends pursue her Master's in 2023."
+    
 NandaHKrishna:
   name: Nanda H Krishna
   group: alumni
@@ -282,6 +289,10 @@ KarthniLakshmanan:
   group: alumni
   location: M.S. Electrical Engineering, University of Cincinati '23
   page: https://www.linkedin.com/in/karthni-lakshmanan-366345194/
+
+RajVigneshKarunakaran:
+  name: Raj Vignesh Karunakaran
+  group: alumni
 
 RamanathanMurugappan:
   name: Ramanathan Murugappan
@@ -650,6 +661,10 @@ CVPranav:
 
 DhiganthRao:
   name: Dhiganth Rao Padamnoor
+  group: other
+
+SaikrishnanS:
+  name: Saikrishnan S
   group: other
 
 VedanthS:
