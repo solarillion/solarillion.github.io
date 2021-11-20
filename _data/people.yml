@@ -88,16 +88,14 @@ NithinGR:
 SideshwarJB:
   name: Sideshwar J B
   group: ra
-  email: 
+  email: sidesh2701@gmail.com
   avatar: /assets/images/headshots/SideshwarJB.jpg
-  uri: 
-  linkedin: 
-  github:
-  twitter: 
+  linkedin: sideshwar
+  github: sidesh27
   page: /people/SideshwarJB
   bio: Research Assistant, Teaching Assistant, Server Management
   about:
-    "Sideshwar is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Computer Science Engineering. His areas of interest are Machine Learning, Deep Learning, Self-Supervised Learning, and Contrastive, Representation Learning. He worked on the paper *Sign Language Translation using Multi Context Transformer* which won the 3rd best paper award at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. He intends pursue a Master’s degree in Computer Science in 2022."
+    "Sideshwar is a final year undergraduate student pursuing Computer Science and Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interests include Machine Learning, Deep Learning, Natural Language Processing and Ubiquitous Computing. Specifically, he focuses on applying Machine Learning to solve problems in health informatics. He intends pursue a Master’s degree in Computer Science in 2022."
     
 SachinKrishan:
   name: Sachin Krishan T
