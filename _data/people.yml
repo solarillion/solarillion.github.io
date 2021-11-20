@@ -123,6 +123,18 @@ SachinKrishan:
   about:
     "Sachin is a final year undergraduate student studying Computer Science Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. The current research he pursues pertains to the detection of arrhythmia on resource-constrained devices using Machine Learning. His areas of interest include Data Science, Machine Learning, Deep Learning and Edge Computing. He intends to pursue a Master's degree in Computer Science in 2022."
 
+Shanthakumar:
+  name: Shanthakumar
+  group: ra
+  email: shantha2106@gmail.com
+  avatar: /assets/images/headshots/Shanthakumar.jpg
+  linkedin: Shanthakumar21
+  github: shanthakumar21
+  page: /people/Shanthakumar
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Shantha is a Full-time Research Assistant and a Teaching Assistant here at Solarillion Foundation. His areas of interest include Machine Learning and Deep Learning. His recent work on applied ML for healthcare was presented at the 20th International Conference on Machine Learning and Applications (ICMLA), 2021. He is currently Co-leading a team and plans to publish his work by Jan 2022. He intends to pursue his Master’s degree in 2022."
+    
 RohitaaRavikumar:
   name: Rohitaa Ravikumar
   group: ra
@@ -133,18 +145,6 @@ RohitaaRavikumar:
   bio: Research Assistant, Teaching Assistant
   about:
     "Rohitaa completed her undergraduate degree at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai in Electronics and Communication Engineering. She worked as the co-author on the paper *Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters* which was published at the Global Humanitarian Technology Conference (GHTC), 2020. She intends pursue her Master's degree in 2022."
-    
-Shanthakumar:
-  name: Shanthakumar
-  group: ra
-  email: shantha2106@gmail.com
-  avatar: /assets/images/headshots/Shanthakumar.jpeg
-  linkedin: Shanthakumar21
-  github: shanthakumar21
-  page: /people/Shanthakumar
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Shantha is a Full-time Research Assistant and a Teaching Assistant here at Solarillion Foundation. His areas of interest include Machine Learning and Deep Learning. His recent work on applied ML for healthcare was presented at the 20th International Conference on Machine Learning and Applications (ICMLA), 2021. He is currently Co-leading a team and plans to publish his work by Jan 2022. He intends to pursue his Master’s degree in 2022."
 
 JerrickGerald:
   name: Jerrick Gerald
