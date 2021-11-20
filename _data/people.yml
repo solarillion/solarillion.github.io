@@ -72,7 +72,7 @@ MaheshBharadwajK:
     "Mahesh is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Computer Science Engineering. His areas of interest are Machine Learning, Natural Language Processing, Computer Vision and Reinforcement Learning. He worked on the paper *Sign Language Translation using Multi Context Transformer* which won the 3rd best paper award at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. He intends to pursue a Master's degree in Computer Science in 2023."
 
 NithinGR:
-  name: Nithin GR
+  name: Nithin G R
   group: ra
   email: nithugr@gmail.com
   avatar: /assets/images/headshots/NithinGR.jpg
@@ -99,18 +99,6 @@ SideshwarJB:
   about:
     "Sideshwar is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Computer Science Engineering. His areas of interest are Machine Learning, Deep Learning, Self-Supervised Learning, and Contrastive, Representation Learning. He worked on the paper *Sign Language Translation using Multi Context Transformer* which won the 3rd best paper award at the 20th Mexican International Conference on Artificial Intelligence, Mexico City, 2021. He intends pursue a Master’s degree in Computer Science in 2022."
     
-VishalNagarajan:
-  name: Vishal Nagarajan
-  group: ra
-  email: nagarajanvishal@gmail.com
-  avatar: /assets/images/headshots/VishalNagarajan.jpg
-  linkedin: vishalnagarajan
-  github: vishaln15
-  page: /people/VishalNagarajan
-  bio: Research Assistant, Teaching Assistant, Website Development
-  about:
-    "Vishal is a Computer Science senior at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest include Machine Learning and Physiological Signal Processing. He worked on the paper *End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices* which was presented at the 20th IEEE International Conference on Machine Learning and Applications, Pasadena, 2021. He intends to pursue a Master's degree in Computer Science in 2022."
-
 SachinKrishan:
   name: Sachin Krishan T
   group: ra
@@ -122,7 +110,19 @@ SachinKrishan:
   bio: Research Assistant, Teaching Assistant
   about:
     "Sachin is a final year undergraduate student studying Computer Science Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. The current research he pursues pertains to the detection of arrhythmia on resource-constrained devices using Machine Learning. His areas of interest include Data Science, Machine Learning, Deep Learning and Edge Computing. He intends to pursue a Master's degree in Computer Science in 2022."
-
+    
+VishalNagarajan:
+  name: Vishal Nagarajan
+  group: ra
+  email: nagarajanvishal@gmail.com
+  avatar: /assets/images/headshots/VishalNagarajan.jpg
+  linkedin: vishalnagarajan
+  github: vishaln15
+  page: /people/VishalNagarajan
+  bio: Research Assistant, Teaching Assistant, Website Development
+  about:
+    "Vishal is a Computer Science senior at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His areas of interest include Machine Learning and Physiological Signal Processing. He worked on the paper *End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices* which was presented at the 20th IEEE International Conference on Machine Learning and Applications, Pasadena, 2021. He intends to pursue a Master's degree in Computer Science in 2022."
+    
 Shanthakumar:
   name: Shanthakumar Sivakumar
   group: ra
