@@ -156,19 +156,7 @@ JerrickGerald:
   page: /people/JerrickGerald
   bio: Research Assistant, Teaching Assistant
   about:
-    "Jerrick is a final year undergraduate student of Computer Science at College of Engineering Guindy (CEG), Anna University. His areas of interest are Artificial Intelligence, Machine Learning, Computer vision and Natural Language Processing. He intends to pursue a Master's degree in Computer Science in 2022."
-
-VykunthRao:
-  name: Vykunth Rao
-  group: ra
-  email: stingrose@gmail.com
-  avatar: /assets/images/headshots/VykunthRao.png
-  linkedin: vykunth-rao-1b525938
-  github: stingrose
-  page: /people/VykunthRao
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Vykunth completed his undergraduate degree in Information Technology at Sri Venkateswara College of Engineering (SVCE), Chennai. His areas of interest include Machine Learning, Computer Vision and Deep Learning. He is currently a part of the Machine Learning research team and intends to pursue a Master's degree in Computer Science in 2022."
+    "Jerrick is a final year undergraduate student of Computer Science at College of Engineering Guindy (CEG), Anna University, Chennai. His areas of interest are Artificial Intelligence, Machine Learning, Computer vision and Natural Language Processing. He intends to pursue a Master's degree in Computer Science in 2022."
     
 AbhishekK:
   name: Abhishek K
@@ -203,7 +191,19 @@ GayathriIlango:
   page: /people/GayathriIlango
   bio: Research Assistant
   about:
-    "Gayathri is a final year Computer Science undergraduate from College of Engineering Guindy (CEG), Chennai. Her areas of interest are Machine Learning, Computer Vision and Computational Neuroscience."
+    "Gayathri is a final year Computer Science undergraduate from College of Engineering Guindy (CEG), Anna University, Chennai. Her areas of interest are Machine Learning, Computer Vision and Computational Neuroscience."
+    
+SowmiyaSreeShubbarayan:
+  name: Sowmiya Sree Shubbarayan
+  email: soumiya2805@gmail.com
+  avatar: /assets/images/headshots/SowmiyaSreeShubbarayan.jpg
+  uri: https://sowmiya.netlify.app/
+  linkedin: sowmiya2805
+  github: sowmiya-2805
+  page: /people/SowmiyaSreeShubbarayan
+  bio: Research Assistant
+  about:
+    "Sowmiya is a Computer Science and Engineering undergrad from the College of Engineering Guindy (CEG), Anna University, Chennai. She intends to work at the intersection of AI, ML and XR. Her research on Machine Learning includes Behavioural research, Natural Language Processing and Image Processing."
     
 AkashAmbashankar:
   name: Akash Ambashankar
@@ -230,8 +230,20 @@ NivedhithaD:
   page: /people/NivedhithaD
   bio: Research Assistant
   about:
-    "Nivedhitha is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing her Bachelor’s in Computer Science & Engineering. Her areas of interest are Machine Learning, Robotics, Computer Vision and Natural Language Processing. She is working alongside a machine learning research team that is analyzing Satellite Imagery. Apart from her ongoing work at SF, she is a Research Intern at the University of Cyprus. She is also the team lead of an undergraduate research group at college that is building an autonomous underwater robot."
+    "Nivedhitha is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing her Bachelor's in Computer Science & Engineering. Her areas of interest are Machine Learning, Robotics, Computer Vision and Natural Language Processing. She is working alongside a machine learning research team that is analyzing Satellite Imagery."
 
+ShreyasSrinivasan:
+  name: Shreyas Srinivasan
+  group: ra
+  email: shreyas0702@gmail.com
+  avatar: /assets/images/headshots/ShreyasSrinivasan.jpg
+  linkedin: shreyas-srinivasan-1b002b205
+  github: Sh0702
+  page: /people/ShreyasSrinivasan
+  bio: Research Assistant
+  about:
+    "Shreyas is a third year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Information Technology. His interests include Deep Learning and Natural Language Processing."
+    
 NithishKumarM:
   name: Nithish Kumar M
   group: ra
@@ -249,18 +261,6 @@ SujithSivasankaran:
   group: ra
   about:
     "Sujith is a final year undergraduate student at Sri Venkateswara College of Engineering (SVCE), Chennai and is pursuing his Bachelor's in Computer Science and Engineering. He intends to pursue his Master's degree in 2023."
-
-MohanVamsi:
-  name: Mohan Vamsi A
-  group: ra
-  about:
-    "Vamsi is a final year undergraduate student at Panimalar Engineering College, Chennai and is pursuing his Bachelor's in Computer Science and Engineering. He intends to pursue his Master's degree in 2023."
-
-SowmiyaSree:
-  name: Sowmiya Sree S
-  group: ra
-  about:
-    "Sowmiya is a final year Computer Science undergraduate from College of Engineering Guindy (CEG), Chennai. She intends to pursue her Master's degree in 2023."
     
 NandaHKrishna:
   name: Nanda H Krishna
@@ -701,6 +701,10 @@ SaikrishnanS:
 
 VedanthS:
   name: Vedanth S	
+  group: other
+
+MohanVamsi:
+  name: Mohan Vamsi A
   group: other
 
 KrishnakanthEswaran:
