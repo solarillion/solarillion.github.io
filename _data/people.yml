@@ -279,6 +279,18 @@ ShreyasSrinivasan:
   about:
     "Shreyas is a third year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Information Technology. His interests include Deep Learning and Natural Language Processing."
     
+NaveenSriram:
+  name: NaveenSriram
+  group: ra
+  email: naveensriram2000@gmail.com
+  avatar: /assets/images/headshots/NaveenSriram.jpg
+  linkedin: naveen-sriram-r
+  github: NaveenSriramR
+  page: /people/NaveenSriram
+  bio: Research Assistant
+  about:
+    "Naveen completed his undergraduate degree in Computer Science at Sri Venkateswara College of Engineering (SVCE), Chennai. His interests are Machine Learning related subjects. He intends to pursue a Master's degree in Computer Science in 2024."
+    
 PoojahG:
   name: Poojah G	
   group: ra
@@ -345,6 +357,12 @@ KarthniLakshmanan:
   location: M.S. Electrical Engineering, University of Cincinati '23
   page: https://www.linkedin.com/in/karthni-lakshmanan-366345194/
 
+AdittyaSrikanth:
+  name: Adittya Srikanth
+  group: alumni
+  location: M.S. Electrical Engineering (Computer Architecture), University of Southern California '23
+  page: https://www.linkedin.com/in/adittya-srikanth-569b11163/
+  
 RajVigneshKarunakaran:
   name: Raj Vignesh Karunakaran
   group: alumni
@@ -359,16 +377,10 @@ JoishBosco:
   group: alumni
   page: https://www.linkedin.com/in/joish-bosco-73389410b/
 
-AdittyaSrikanth:
-  name: Adittya Srikanth
-  group: alumni
-  location: M.S. Electrical Engineering (Computer Architecture), University of Southern California '23
-  page: https://www.linkedin.com/in/adittya-srikanth-569b11163/
-
 PranavVijay:
   name: Pranav Vijay
   group: alumni
-
+  
 GokulHari:
   name: Gokul Hari
   group: alumni
