@@ -217,6 +217,19 @@ SowmiyaSreeShubbarayan:
   about:
     "Sowmiya is a Computer Science and Engineering undergrad from the College of Engineering Guindy (CEG), Anna University, Chennai. She intends to work at the intersection of AI, ML and XR. Her research on Machine Learning includes Behavioural research, Natural Language Processing and Image Processing."
 
+PoojahG:
+   name: Poojah Ganesan
+   group: ra
+   email: poojahkg@gmail.com
+   avatar: /assets/images/headshots/PoojahG.jpg
+   linkedin: poojah-ganesan
+   github: poojahkg
+   twitter: poojahkg
+   page: /people/PoojahG
+   bio: Research Assistant
+   about:
+    "Poojah is a Electronics and Communication Graduate from Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is currently working as a Senior Software Engineer in L&T Infotech. Her areas of interest are Machine Learning, Deep Learning, Computer Vision and its applications. She intends to pursue a Master's degree in Computer Science in 2023."
+    
 AshwiniMuralidharan:
   name: Ashwini Muralidharan
   group: ra
@@ -290,12 +303,6 @@ NaveenSriram:
   bio: Research Assistant
   about:
     "Naveen completed his undergraduate degree in Computer Science at Sri Venkateswara College of Engineering (SVCE), Chennai. His interests are Machine Learning related subjects. He intends to pursue a Master's degree in Computer Science in 2024."
-    
-PoojahG:
-  name: Poojah G	
-  group: ra
-  about:
-    "Poojah is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing her Bachelor's in Electronics and Communication Engineering. She intends to pursue her Master's degree in 2023."
     
 NandaHKrishna:
   name: Nanda H Krishna
