@@ -20,7 +20,7 @@ BPNEDLFCABPEUP:
   - VedanthS
   - PoojahG
   - AbhishekK
-  - NithishKumarM
+  - NitishKumar
   - VineethVijayaraghavan
   year: "2021"
   title: "BP-Net: Efficient Deep Learning for Continuous Arterial Blood Pressure Estimation using Photoplethysmogram"
@@ -60,15 +60,16 @@ SABSGFFEDOFHN:
   authors:
   - PrasannaKumaranD
   - HarishSrinivasan
-  - SowmiyaSree
+  - SowmiyaSreeShubbarayan
   - GayathriIlango
   - SaikrishnanS
   - VineethVijayaraghavan
   year: "2021"
   title: "SOMPS-Net : Attention based social graph framework for early detection of fake health news"
   conference: "The Australasian Data Mining Conference (AusDM)"
+  url: "https://link.springer.com/chapter/10.1007/978-981-16-8531-6_12"
   git: "https://github.com/PrasannaKumaran/SOMPS-Net-Social-graph-framework-for-fake-health-news-detection"
-  status: Accepted
+  status: Published
   team: GL
 
 ANIMLSFMDADTCIS:
