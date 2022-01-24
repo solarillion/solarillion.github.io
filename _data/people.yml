@@ -134,7 +134,7 @@ Shanthakumar:
   bio: Research Assistant, Teaching Assistant
   about:
     "Shantha is a Full-time Research Assistant and a Teaching Assistant here at Solarillion Foundation. His areas of interest include Machine Learning and Deep Learning. His recent work on applied ML for healthcare was presented at the 20th International Conference on Machine Learning and Applications (ICMLA), 2021. He is currently Co-leading a team and plans to publish his work by Jan 2022. He intends to pursue his Master’s degree in 2022."
-    
+
 RohitaaRavikumar:
   name: Rohitaa Ravikumar
   group: ra
@@ -181,6 +181,53 @@ NiranjanKumar:
   about:
     "Niranjan Kumar completed his undergraduate degree in Electronics and Communication Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. His interests are Robust Learning, Reinforcement Learning and Robotics. He intends to pursue a Master's degree in 2022."
     
+NitishKumar:
+  name: Nitish Kumar
+  group: ra
+  email: nitish.visva@gmail.com
+  avatar: /assets/images/headshots/NitishKumar.jpg
+  linkedin: nitish-kumar-0407691a7
+  github: NitishKumar2404
+  page: /people/NitishKumar
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Nitish is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Electronics and Communication Engineering. His areas of interest are Machine Learning, Deep Learning, Computer Vision, and Signal Processing. He intends pursue a Master's degree in 2022."
+    
+SujithSivasankaran:
+  name: Sujith Sivasankaran	
+  group: ra
+  email: sujithsivasankaran10@gmail.com
+  avatar: /assets/images/headshots/SujithSivasankaran.jpg
+  linkedin: sujith-sivasankaran-12ba84178
+  github: SujithSivasankaran
+  page: /people/SujithSivasankaran
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Sujith is a Computer Science senior at Sri Venkateswara College of Engineering (SVCE), Chennai. His research interests include machine learning and adversarial attacks. He co-authored the IEEE 20th International Conference on Machine Learning and Applications paper Critical State Detection for Adversarial Attacks in Deep Reinforcement Learning Using Reinforcement Learning (ICMLA). He intends to pursue a Master's degree in Computer Science."
+
+SowmiyaSreeShubbarayan:
+  name: Sowmiya Sree Shubbarayan
+  email: soumiya2805@gmail.com
+  avatar: /assets/images/headshots/SowmiyaSreeShubbarayan.jpg
+  uri: https://sowmiya.netlify.app/
+  linkedin: sowmiya2805
+  github: sowmiya-2805
+  page: /people/SowmiyaSreeShubbarayan
+  bio: Research Assistant, Teaching Assistant
+  about:
+    "Sowmiya is a Computer Science and Engineering undergrad from the College of Engineering Guindy (CEG), Anna University, Chennai. She intends to work at the intersection of AI, ML and XR. Her research on Machine Learning includes Behavioural research, Natural Language Processing and Image Processing."
+
+AshwiniMuralidharan:
+  name: Ashwini Muralidharan
+  group: ra
+  email: ashwinimuralidharan99@gmail.com
+  avatar: /assets/images/headshots/AshwiniMuralidharan.jpg
+  github: Ashwiinii
+  page: /people/AshwiniMuralidharan
+  bio: Research Assistant
+  about:
+    "Ashwini is a final year undergraduate student of the Electrical and Electronics Engineering department at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. Her areas of interest include Machine Learning, Artificial Intelligence and Signal Processing. She is a part of the ML research team and intends to pursue her Masters in Computer Engineering in 2022."
+    
 GayathriIlango:
   name: Sri Gayathri Devi I
   group: ra
@@ -192,18 +239,6 @@ GayathriIlango:
   bio: Research Assistant
   about:
     "Gayathri is a final year Computer Science undergraduate from College of Engineering Guindy (CEG), Anna University, Chennai. Her areas of interest are Machine Learning, Computer Vision and Computational Neuroscience."
-    
-SowmiyaSreeShubbarayan:
-  name: Sowmiya Sree Shubbarayan
-  email: soumiya2805@gmail.com
-  avatar: /assets/images/headshots/SowmiyaSreeShubbarayan.jpg
-  uri: https://sowmiya.netlify.app/
-  linkedin: sowmiya2805
-  github: sowmiya-2805
-  page: /people/SowmiyaSreeShubbarayan
-  bio: Research Assistant
-  about:
-    "Sowmiya is a Computer Science and Engineering undergrad from the College of Engineering Guindy (CEG), Anna University, Chennai. She intends to work at the intersection of AI, ML and XR. Her research on Machine Learning includes Behavioural research, Natural Language Processing and Image Processing."
     
 AkashAmbashankar:
   name: Akash Ambashankar
@@ -244,23 +279,11 @@ ShreyasSrinivasan:
   about:
     "Shreyas is a third year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Information Technology. His interests include Deep Learning and Natural Language Processing."
     
-NithishKumarM:
-  name: Nithish Kumar M
-  group: ra
-  about:
-    "Nithish is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Electronics and Communication Engineering. He intends to pursue his Master's degree in 2022."
-    
 PoojahG:
   name: Poojah G	
   group: ra
   about:
     "Poojah is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing her Bachelor's in Electronics and Communication Engineering. She intends to pursue her Master's degree in 2023."
-
-SujithSivasankaran:
-  name: Sujith Sivasankaran	
-  group: ra
-  about:
-    "Sujith is a final year undergraduate student at Sri Venkateswara College of Engineering (SVCE), Chennai and is pursuing his Bachelor's in Computer Science and Engineering. He intends to pursue his Master's degree in 2023."
     
 NandaHKrishna:
   name: Nanda H Krishna
