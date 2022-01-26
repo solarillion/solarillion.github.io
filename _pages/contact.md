@@ -6,6 +6,7 @@ excerpt: Please fill out our application form if you are interested in joining u
 ---
 <div style="text-align: justify; margin-top: 2em">
 We are currently accepting applications for Undergraduate Research Assistants. Undergraduate students (of any year) in CSE, IT or ECE can apply. Young professionals with 1-2 years of work experience who want to join our research program before their graduate studies are also welcome to apply. Please fill out the <a href="https://forms.gle/Mxcxq7iA4B8nv4DY9">application form</a> if you are interested in joining us. If you have any queries, kindly contact us via <a href="mailto:solarillion.ta@gmail.com">email</a>.
+</div>
 
 ## Location
 Our location is listed on Google Maps. You can use the utility below to view and check for directions.
