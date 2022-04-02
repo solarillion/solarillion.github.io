@@ -135,29 +135,6 @@ Shanthakumar:
   about:
     "Shantha is a Full-time Research Assistant and a Teaching Assistant here at Solarillion Foundation. His areas of interest include Machine Learning and Deep Learning. His recent work on applied ML for healthcare was presented at the 20th International Conference on Machine Learning and Applications (ICMLA), 2021. He is currently Co-leading a team and plans to publish his work by Jan 2022. He intends to pursue his Master's degree in 2022."
 
-RohitaaRavikumar:
-  name: Rohitaa Ravikumar
-  group: ra
-  email: rohitaa1318@gmail.com
-  avatar: /assets/images/headshots/RohitaaRavikumar.jpg
-  linkedin: rohitaa-r-262b791b2
-  page: /people/RohitaaRavikumar
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Rohitaa completed her undergraduate degree at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai in Electronics and Communication Engineering. She worked as the co-author on the paper *Irrigation Load Optimization for Enhanced Agricultural Productivity in Rural Microgrid Clusters* which was published at the Global Humanitarian Technology Conference (GHTC), 2020. She intends pursue her Master's degree in 2022."
-
-JerrickGerald:
-  name: Jerrick Gerald
-  group: ra
-  email: jerrick1105@gmail.com
-  avatar: /assets/images/headshots/JerrickGerald.jpg
-  linkedin: jerrickgerald
-  github: JERRICKGERALD
-  page: /people/JerrickGerald
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Jerrick is a final year undergraduate student of Computer Science at College of Engineering Guindy (CEG), Anna University, Chennai. His areas of interest are Artificial Intelligence, Machine Learning, Computer vision and Natural Language Processing. He intends to pursue a Master's degree in Computer Science in 2022."
-    
 AbhishekK:
   name: Abhishek K
   group: ra
@@ -192,18 +169,6 @@ NitishKumar:
   bio: Research Assistant, Teaching Assistant
   about:
     "Nitish is a final year undergraduate student at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Electronics and Communication Engineering. His areas of interest are Machine Learning, Deep Learning, Computer Vision, and Signal Processing. He intends pursue a Master's degree in 2022."
-    
-SujithSivasankaran:
-  name: Sujith Sivasankaran	
-  group: ra
-  email: sujithsivasankaran10@gmail.com
-  avatar: /assets/images/headshots/SujithSivasankaran.jpg
-  linkedin: sujith-sivasankaran-12ba84178
-  github: SujithSivasankaran
-  page: /people/SujithSivasankaran
-  bio: Research Assistant, Teaching Assistant
-  about:
-    "Sujith is a Computer Science senior at Sri Venkateswara College of Engineering (SVCE), Chennai. His research interests include machine learning and adversarial attacks. He co-authored the IEEE 20th International Conference on Machine Learning and Applications paper Critical State Detection for Adversarial Attacks in Deep Reinforcement Learning Using Reinforcement Learning (ICMLA). He intends to pursue a Master's degree in Computer Science."
 
 SowmiyaSreeShubbarayan:
   name: Sowmiya Sree Shubbarayan
@@ -240,32 +205,6 @@ AshwiniMuralidharan:
   bio: Research Assistant
   about:
     "Ashwini is a final year undergraduate student of the Electrical and Electronics Engineering department at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai. Her areas of interest include Machine Learning, Artificial Intelligence and Signal Processing. She is a part of the ML research team and intends to pursue her Master's in Computer Engineering in 2022."
-    
-GayathriIlango:
-  name: Sri Gayathri Devi I
-  group: ra
-  email: gayathri2800@gmail.com
-  avatar: /assets/images/headshots/GayathriIlango.jpeg
-  linkedin: gayathri-ilan
-  github: gayu28
-  page: /people/GayathriIlango
-  bio: Research Assistant
-  about:
-    "Gayathri is a final year Computer Science undergraduate from College of Engineering Guindy (CEG), Anna University, Chennai. Her areas of interest are Machine Learning, Computer Vision and Computational Neuroscience."
-    
-AkashAmbashankar:
-  name: Akash Ambashankar
-  group: ra
-  email: akashambashankar@gmail.com
-  avatar: /assets/images/headshots/AkashAmbashankar.jpeg
-  uri: https://akashamba.netlify.app
-  linkedin: akash-ambashankar
-  github: akashamba
-  twitter: akashamba_cs
-  page: /people/AkashAmbashankar
-  bio: Research Assistant
-  about:
-    "Akash is a final year undergraduate student at KCG College of Technology (Affiliated to Anna University), Chennai and is pursuing his bachelors in Computer Science and Engineering. His areas of interest are Machine Learning, Natural Language Processing, and Computer Vision. He intends to pursue a Master's degree in Computer Science in 2022."
 
 NivedhithaD:
   name: Nivedhitha D
@@ -733,6 +672,10 @@ CVPranav:
   name: Chakilam Vijay Pranav
   group: other
 
+RohitaaRavikumar:
+  name: Rohitaa Ravikumar
+  group: other
+
 DhiganthRao:
   name: Dhiganth Rao Padamnoor
   group: other
@@ -747,6 +690,14 @@ VedanthS:
 
 MohanVamsi:
   name: Mohan Vamsi A
+  group: other
+
+SujithSivasankaran:
+  name: Sujith Sivasankaran	
+  group: other
+
+GayathriIlango:
+  name: Sri Gayathri Devi I
   group: other
 
 KrishnakanthEswaran:
