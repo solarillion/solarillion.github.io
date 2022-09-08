@@ -26,7 +26,8 @@ BPNEDLFCABPEUP:
   title: "BP-Net: Efficient Deep Learning for Continuous Arterial Blood Pressure Estimation using Photoplethysmogram"
   conference: "20th IEEE International Conference on Machine Learning and Applications (ICMLA)"
   git: "https://github.com/rishivar/BP-Net"
-  status: Accepted
+  url: "https://ieeexplore.ieee.org/document/9680071"
+  status: Published
   team: EML
 
 CSDFAAIDRL:
@@ -39,7 +40,8 @@ CSDFAAIDRL:
   year: "2021"
   title: "Critical State Detection for Adversarial Attacks in Deep Reinforcement Learning"
   conference: "20th IEEE International Conference on Machine Learning and Applications (ICMLA)"
-  status: Accepted
+  url: "https://ieeexplore.ieee.org/document/9680180"
+  status: Published
   team: RL
 
 ETEOADPUMLFUED:
@@ -53,7 +55,8 @@ ETEOADPUMLFUED:
   title: "End-to-End Optimized Arrhythmia Detection Pipeline using Machine Learning for Ultra-Edge Devices"
   conference: "20th IEEE International Conference on Machine Learning and Applications (ICMLA)"
   git: "https://github.com/vishaln15/OptimizedArrhythmiaDetection"
-  status: Accepted
+  url: "https://ieeexplore.ieee.org/document/9680091"
+  status: Published
   team: EML
 
 SABSGFFEDOFHN:
