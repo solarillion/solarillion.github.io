@@ -170,30 +170,30 @@ NitishKumar:
   about:
     "Nitish completed his undergraduate degree in Electronics and Communication Engineering at Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is pursuing his Bachelor's in Electronics and Communication Engineering. His areas of interest are Machine Learning, Deep Learning, Computer Vision, and Signal Processing. He intends pursue a Master's degree in 2022."
 
-SowmiyaSree:
+SowmiyaS:
   name: Sowmiya Sree Shubbarayan
   email: soumiya2805@gmail.com
-  avatar: /assets/images/headshots/SowmiyaSree.jpg
+  avatar: /assets/images/headshots/SowmiyaS.jpg
   uri: https://sowmiya.netlify.app/
   linkedin: sowmiya2805
   github: sowmiya-2805
-  page: /people/SowmiyaSree
+  page: /people/SowmiyaS
   bio: Research Assistant, Teaching Assistant
   about:
     "Sowmiya is a Computer Science and Engineering undergrad from the College of Engineering Guindy (CEG), Anna University, Chennai. She intends to work at the intersection of AI, ML and XR. Her research on Machine Learning includes Behavioural research, Natural Language Processing and Image Processing."
 
 PoojahG:
-   name: Poojah Ganesan
-   group: ra
-   email: poojahkg@gmail.com
-   avatar: /assets/images/headshots/PoojahG.jpg
-   linkedin: poojah-ganesan
-   github: poojahkg
-   twitter: poojahkg
-   page: /people/PoojahG
-   bio: Research Assistant
-   about:
-    "Poojah is a Electronics and Communication Graduate from Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is currently working as a Senior Software Engineer in L&T Infotech. Her areas of interest are Machine Learning, Deep Learning, Computer Vision and its applications. She intends to pursue a Master's degree in Computer Science in 2023."
+  name: Poojah Ganesan
+  group: ra
+  email: poojahkg@gmail.com
+  avatar: /assets/images/headshots/PoojahG.jpg
+  linkedin: poojah-ganesan
+  github: poojahkg
+  twitter: poojahkg
+  page: /people/PoojahG
+  bio: Research Assistant
+  about:
+  "Poojah is a Electronics and Communication Graduate from Sri Sivasubramaniya Nadar (SSN) College of Engineering, Chennai and is currently working as a Senior Software Engineer in L&T Infotech. Her areas of interest are Machine Learning, Deep Learning, Computer Vision and its applications. She intends to pursue a Master's degree in Computer Science in 2023."
     
 AshwiniMuralidharan:
   name: Ashwini Muralidharan
