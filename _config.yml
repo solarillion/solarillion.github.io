@@ -19,7 +19,7 @@ title                    : "Solarillion Foundation"
 title_separator          : "-"
 subtitle                 : # subtitle
 name                     : "Solarillion Foundation"
-description              : "Machine Learning, Internet of Things and Microgrid Research"
+description              : "Edge Machine Learning, Robust Learning and Deep Learning Research"
 url                      : "https://solarillionfoundation.org/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "solarillion/solarillion.github.io"
